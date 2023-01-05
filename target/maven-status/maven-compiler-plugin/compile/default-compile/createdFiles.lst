@@ -1,0 +1,15 @@
+com\example\plug\Model\Permissions\ListPermissionDTO.class
+com\example\plug\Controller\MainController.class
+com\example\plug\Model\Permissions\PermissionTypeDTO.class
+com\example\plug\Model\Permissions\GetPermissionsResponse.class
+com\example\plug\PlugApplication.class
+com\example\plug\Controller\PermissionController.class
+com\example\plug\Controller\FrontEndController.class
+com\example\plug\Model\BalancesDTO\GetDepositsBalancesRequestDTO.class
+com\example\plug\Model\BalancesDTO\InfoResponseGetDepositBalancesRsDTO.class
+com\example\plug\Model\Permissions\GetPermissionsRequest.class
+com\example\plug\Model\Permissions\GetPermissionsRequestDTO.class
+com\example\plug\Model\Permissions\PermissionDTO.class
+com\example\plug\Model\BalancesDTO\BalanceAccountInfoDTO.class
+com\example\plug\Model\Permissions\GetPermissionsResponseDTO.class
+com\example\plug\Model\BalancesDTO\GetDepositBalancesResponseDTO.class
